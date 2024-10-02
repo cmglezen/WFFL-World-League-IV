@@ -99,110 +99,79 @@
     <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
-    
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: Roster</h3>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneOne)}>1.1 Positional Breakdown</h4>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneOneOne)}>1.1.1 Position Maximums</h5>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneTwo)}>1.2 Trading</h4>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoOne)}>1.2.1 Trade Collusion</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoTwo)}>1.2.2 Lending Players Prohibition</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoThree)}>1.2.3 Trade Deadline</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoFour)}>1.2.4 Trade Restrictions</h5>
-            <h5 class="noUnderscore clickable" on:click={() => goToSection(oneTwoFive)}>1.2.5 Veto/Trade Process</h5>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(oneThree)}>1.3 Waiver Wire</h4>
-    
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: Drafting</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoOne)}>2.1 Draft Order</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoTwo)}>2.2 Rookie Drafts</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(twoThree)}>2.3 Draft Day Trades</h4>
-    
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: Scoring System</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(threeOne)}>3.1 Voting on Scoring System</h4>
-    
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: Postseason</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Playoffs</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fourTwo)}>4.2 Playoff Tiebreakers</h4>
 
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Tanking Policy</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveOne)}>5.1 League Tanking Policy</h4>
-
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Replacing Managers</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>6.1 Removing Managers</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>6.2 Replacing Managers</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>6.3 Replacement Incentive</h4>
-
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: League Finances</h3>
-    
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sevenOne)}>7.1 League Dues</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixTwo)}>7.2 Payout</h4>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(sixThree)}>7.3 Raising Dues</h4>
-    
-    
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(one)}>Section 1: League Concept</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(two)}>Section 2: League Fees</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: Communication</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: Penalty for Lack of Payment</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Startup</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Progressive Pots</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Regular Season</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 8: Cup Competitions</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 9: Champions League</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 10: Federation Cup</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 11: Scoring Rules</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 12: Rosters</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 13: Taxi Squads</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 14: Injured Reserve</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 15: Trading</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 16: Rookie Draft</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 17: Free Agency</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 18: Tanking</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 19: Expansion</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 20: Owner Rules</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 21: Sportsmanship</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 22: Voting</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 23: Best Interest Clause</h3>
+    <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 24: League Openings</h3>
     <hr />
+     
+    <h3 class="subSectionHeading" bind:this={oneOne}>1 League Concept</h3>
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1 Roster Breakdown</h2>
+    <p>League Concept</p>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
-    
-    <p>28 Total Players</p>
-    
-    <p class="underscore">Starters</p>
-    <ul>
-        <li>QB</li>
-        <li>RB</li>
-        <li>RB</li>
-        <li>WR</li>
-        <li>WR</li>
-        <li>TE</li>
-        <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
-    </ul>
-    
-    <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
+    <p Welcome to the World Federation of Fantasy Leagues. This will be a conglomerate of several individual leagues. Each league will have 12 teams, broken down into three divisions.</p>
+    <p></p>    
+    <p>As well as the competition cups, the Federation will celebrate its champions with a Champions League each year.</p>
+    <p></p>   
+    <p>Every two years, a Federation Cup will be held.</p>
+    <p></p>  
+    <p>The league will be run through Sleeper, with competition cups, Champions League, and Federation Cup tracked via Google Documents.</p>
+    <p></p>
+    <p>Owners will create teams with a city/state/region along with their mascot i.e. Anchorage Huskies. You may pick a city/state/province/region from anywhere in the world. I would prefer we don't use real teams, don't want to see a bunch of requests for Dallas Cowboys or Pittsburgh Steelers.</p>
+    <p></p>
+    <p>Teams will be placed in leagues based on their region. While it may not be the case, it is expected most regions will be in the United States, so there may be several US Leagues.</p>
 
-    <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <h3 class="subSectionHeading" bind:this={oneTwo}>2 League Fees</h3>
     
-        <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
-        
-        <div class="subBlock">
-            <table class="positionMaximums">
-                <tr><td>QB</td><td class="right">3 active, 5 total</td></tr>
-                <tr><td>RB</td><td class="right">20</td></tr>
-                <tr><td>WR</td><td class="right">20</td></tr>
-                <tr><td>TE</td><td class="right">10</td></tr>
-                <tr><td>D/ST</td><td class="right">3</td></tr>
-                <tr><td>K</td><td class="right">3</td></tr>
-            </table>
-        </div>
-
-
-    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
-    
-    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
-    
-    <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
-    <div class="subBlock">
-        <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
-        
+    <p>LEAGUE SAFE and TEAMSTAKE will both be used for all dues.League safe is preferable, but if you are unable to use it, Teamstake is also being used. You may also use Teamstake if you have money in there.</p>
+    <p></p>
+    <p>League fees will be $25 per year. Teams will also be required to be paid for up to two seasons for an additional $25. This means teams will always be paid one season ahead. If a team is removed for cause (banishment), future buy-in money will be forfeited. If a team trades away the following year's 1st or second draft pick, and the owner leaves the league, the year's buy in is forfeited. If at any time an owner does not own a 1st round pick two seasons out, the owner must pay that season's dues. If an owner leaves the league and there are still no 1st round picks for that season, all future league fees will be forfeited. This money will be used to replace the owner.  Examples:</p/
         <ul>
-            <li>First Offense – Immediate reduction of FAAB budget by 80%</li>
-            <li>Second Offense – Immediate freeze on all transaction types for the next 18 weeks of regular season and playoff fantasy football games, including trades and waiver wire bids</li>
-            <li>Third Offense – A league meeting of all members not involved in any of the improper trades/activity in question will take place to discuss next steps.</li>
+            <li>In 2024 Team A trades away 2025 1st. Team A departs the league in 2025. 2025 fees are forfeited and used to bring in a new owner.</li>
+            <li>In 2024 Team A trades away 2026 1st. Owner must pay 2026 dues. Team A departs the league in 2025. 2025 and 2026 league fees are forfeited and used to bring in a new owner.</li>
+            <li>In 2024 Team A trades away 2026 1st. Owner must pay 2026 dues. During the season Team A trades for Team B 2026 1st. Team B must pay 2026 dues if no other 2026 1st exists on their team. Team A departs the league in 2025 and the team has 2025 1st and 2nd and a 2026 1st (even if it is not their own). All future league dues may be reimbursed.</li>
         </ul>
-
-        <p>All trades that are found guilty of collusion, will be reversed/denied. If the trade had affected the outcome of previous games, the results of those games will be revised.  </p>
-
-        <p>*Collusion includes the organizing of veto votes against an acceptable trade.</p>
-
-        <p>The commissioner will err on the side of letting owners manage their teams the way they see fit. Any collusion will need to be clear. The commissioner reserves the right to step in and at the very least assess the thinking of any team involved in a heavily lop-sided trade. </p>
-    </div>
+    <p></p>
+    <p>If an owner is notified future payments are due, one week will be given to pay. If not paid during that week, a federation wide announcement will be made and another week given. If it is during the season, games after the first week will be counted as forfeits.</p>
+    <p></p>
+    <p>Any other reason (personal) money may be reimbursed.</p>
+    <p></p>
+    <p>League fees will be due on March 1st of each year.</p>
+    <p></p>
+    <p>The fees will be distributed according to the following:</p>
+    <p></p>
+    <p>10% of dues collected will be used towards competition cups, Champions League, Federation Cup, and progressive pots.</p>
+    <p>The remaining dues collected will be distributed as follows:</p>
+     <ul>
+            <li>$100 Bowl Winner</li>
+            <li>$75 Bowl Runner Up</li>
+            <li>$50 3rd Place</li>
+            <li>$30 division champions ($10 each)</li>
+            <li>$10 Regular season best record</li>
+            <li>$5 Regular season most points scored</li>
+        </ul>
+      
 
     <h4 bind:this={oneTwoTwo}>1.2.2 Lending Players Prohibition</h4>
     <div class="subBlock">
