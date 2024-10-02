@@ -59,7 +59,7 @@ export const tabs = [
             {
                 icon: 'history_edu',
                 label: 'Constitution',
-                dest: '/constitution',
+                dest: 'https://docs.google.com/document/d/1JjnK7s5GjissYzxJ6e71WqK47gvlhtgAxZcnpwO87zM/edit?usp=sharing',
             },
             {
                 icon: 'sports_football',
