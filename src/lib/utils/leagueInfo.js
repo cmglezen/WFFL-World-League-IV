@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the World Federation of Fantasy Leagues. This will be a conglomerate of several individual leagues. Each league will have 12 teams, broken down into three divisions.</p>
+  <p>Welcome to the World Federation of Fantasy Leagues. Established in 2024. This will be a conglomerate of several individual leagues. Each league will have 12 teams, broken down into three divisions.</p>
   <p>Welcome to the World Federation of Fantasy Leagues. This will be a conglomerate of several individual leagues. Each league will have 12 teams, broken down into three divisions.</p>
   <p>As well as the competition cups, the Federation will celebrate its champions with a Champions League each year.</p>
   <p>Every two years, a Federation Cup will be held</p>
